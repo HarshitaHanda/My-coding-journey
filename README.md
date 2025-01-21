@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1646-kth-missing-positive-number) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
