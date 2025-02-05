@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0148-sort-list) |
