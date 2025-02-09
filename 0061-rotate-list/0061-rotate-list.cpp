@@ -23,11 +23,12 @@ public:
         ListNode* tempo=head;
         k=count-k; int cnt=1; 
         while(tempo!=NULL){
-            if(cnt==k) {head=tempo->next; tempo->next=NULL; return head;}
+            if(cnt==k) {head=tempo->next; tempo->next=NULL;}
             cnt++; 
             tempo=tempo->next;
-        } head=tempo->next;
-        tempo->next=NULL;
+        } 
+        // head=tempo->next;
+        // tempo->next=NULL;
         return head;
 
     }
