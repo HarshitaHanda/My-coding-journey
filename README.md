@@ -66,8 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0050-powx-n) |
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
