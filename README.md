@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0907-koko-eating-bananas) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
