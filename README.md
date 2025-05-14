@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0455-assign-cookies) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
