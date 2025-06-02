@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0455-assign-cookies) |
 ## Merge Sort
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -102,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0055-jump-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
