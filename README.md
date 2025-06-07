@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0435-non-overlapping-intervals) |
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
