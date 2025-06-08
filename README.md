@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0525-contiguous-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0525-contiguous-array) |
 ## Dynamic Programming
 |  |
 | ------- |
