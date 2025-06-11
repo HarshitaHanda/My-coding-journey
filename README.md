@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0057-insert-interval) |
+| [0090-subsets-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0022-generate-parentheses) |
+| [0090-subsets-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0090-subsets-ii) |
 ## Stack
 |  |
 | ------- |
