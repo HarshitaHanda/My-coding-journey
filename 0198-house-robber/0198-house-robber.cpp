@@ -1,7 +1,7 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int prev=nums[0]; int prev2=0;
+        int prev=0; int prev2=0;
         for(int i=0;i<nums.size();i++){
             int pick=nums[i];
             if(i>1) pick+=prev2;
