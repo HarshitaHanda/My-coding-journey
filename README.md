@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0283-move-zeroes) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0435-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
