@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0455-assign-cookies) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0151-reverse-words-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
