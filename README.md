@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshitaHanda/My-coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
