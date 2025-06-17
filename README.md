@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0151-reverse-words-in-a-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshitaHanda/My-coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0225-implement-stack-using-queues) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshitaHanda/My-coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshitaHanda/My-coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
