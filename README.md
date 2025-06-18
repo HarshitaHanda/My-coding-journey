@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0567-permutation-in-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshitaHanda/My-coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0225-implement-stack-using-queues) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshitaHanda/My-coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
