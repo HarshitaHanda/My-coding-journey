@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0908-middle-of-the-linked-list) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshitaHanda/My-coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
