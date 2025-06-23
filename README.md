@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0225-implement-stack-using-queues) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshitaHanda/My-coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -194,4 +195,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshitaHanda/My-coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
