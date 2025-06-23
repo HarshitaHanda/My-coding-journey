@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HarshitaHanda/My-coding-journey/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
