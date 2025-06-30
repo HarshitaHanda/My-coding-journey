@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0189-rotate-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0169-majority-element) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0102-binary-tree-level-order-traversal) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
