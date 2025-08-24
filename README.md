@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0057-insert-interval) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0169-majority-element) |
 ## Sorting
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/HarshitaHanda/My-coding-journey/tree/master/0198-house-robber) |
